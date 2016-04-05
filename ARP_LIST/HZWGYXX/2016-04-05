@@ -1,0 +1,87 @@
+Interface: en0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 1024 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+172.16.96.48	34:80:b3:bd:9a:fd	(Unknown)
+172.16.96.9	80:41:4e:b9:92:7d	(Unknown)
+172.16.96.13	60:57:18:c2:7c:fc	Intel Corporate
+172.16.96.82	74:75:48:3d:0b:8f	(Unknown)
+172.16.96.130	b8:bc:1b:11:15:e3	(Unknown)
+172.16.96.134	ec:1f:72:ad:3c:0c	(Unknown)
+172.16.97.38	c4:07:2f:67:9e:e2	(Unknown)
+172.16.97.51	7c:1d:d9:b3:f4:cb	(Unknown)
+172.16.97.40	80:71:7a:e6:81:42	(Unknown)
+172.16.97.129	b0:34:95:05:f8:9b	(Unknown)
+172.16.97.20	a0:86:c6:7a:8c:c5	(Unknown)
+172.16.97.154	30:9b:ad:a9:ec:23	(Unknown)
+172.16.97.90	00:9a:cd:29:ff:c0	(Unknown)
+172.16.97.182	3c:47:11:be:a6:16	(Unknown)
+172.16.97.210	30:52:cb:bb:5e:04	(Unknown)
+172.16.98.23	d0:e1:40:cd:dc:c0	(Unknown)
+172.16.98.70	98:d6:bb:a9:d4:00	Apple, Inc.
+172.16.98.193	d0:e1:40:cc:61:99	(Unknown)
+172.16.98.86	24:7f:3c:98:c4:dd	(Unknown)
+172.16.98.171	dc:53:60:9b:c2:f1	(Unknown)
+172.16.98.207	d0:22:be:cb:dd:f9	Samsung Electro Mechanics co.,LTD.
+172.16.98.157	84:73:03:31:28:58	(Unknown)
+172.16.98.223	cc:a2:23:27:50:e5	(Unknown)
+172.16.98.208	d0:22:be:ea:69:e0	Samsung Electro Mechanics co.,LTD.
+172.16.99.1	fc:db:b3:17:0b:f1	(Unknown)
+172.16.99.8	ec:5a:86:47:28:be	(Unknown)
+172.16.99.17	40:0e:85:38:d2:57	Samsung Electro Mechanics co.,LTD.
+172.16.98.226	f0:27:65:68:cc:78	Murata Manufactuaring Co.,Ltd.
+172.16.99.10	0c:30:21:b9:f5:ff	Apple, Inc
+172.16.99.25	a0:8d:16:fb:1f:39	(Unknown)
+172.16.99.122	dc:53:60:9b:ac:80	(Unknown)
+172.16.99.40	54:9f:13:cd:fa:2d	(Unknown)
+172.16.99.107	5c:2e:59:9e:ef:44	(Unknown)
+172.16.99.72	dc:2b:2a:77:7a:c2	(Unknown)
+172.16.99.71	6c:72:e7:4f:44:06	(Unknown)
+172.16.99.67	a4:3d:78:43:d0:c1	(Unknown)
+172.16.99.125	f4:e3:fb:14:73:13	(Unknown)
+172.16.99.79	e8:bb:a8:5e:a3:f5	(Unknown)
+172.16.99.201	30:f7:72:53:b2:79	(Unknown)
+172.16.99.212	30:f7:72:53:b3:74	(Unknown)
+172.16.99.216	30:f7:72:53:b3:67	(Unknown)
+172.16.99.171	10:ae:60:22:fb:a5	(Unknown)
+172.16.99.211	30:f7:72:53:b2:7c	(Unknown)
+172.16.99.205	30:f7:72:53:b3:6d	(Unknown)
+172.16.99.202	30:f7:72:53:b4:2d	(Unknown)
+172.16.99.206	30:f7:72:53:b4:dd	(Unknown)
+172.16.99.130	78:7e:61:8a:66:ae	(Unknown)
+172.16.99.190	d0:22:be:06:7a:07	Samsung Electro Mechanics co.,LTD.
+172.16.99.203	30:f7:72:53:b4:a9	(Unknown)
+172.16.99.218	30:f7:72:53:b2:fd	(Unknown)
+172.16.99.208	30:f7:72:53:b4:2b	(Unknown)
+172.16.99.214	48:e2:44:27:db:87	(Unknown)
+172.16.99.254	3c:8c:40:5f:6b:d6	(Unknown)
+172.16.99.213	30:f7:72:53:b3:6b	(Unknown)
+172.16.99.144	b0:c4:e7:b5:81:a9	Samsung Electronics
+172.16.99.151	e0:b5:2d:ea:66:6a	(Unknown)
+172.16.99.207	30:f7:72:53:b3:00	(Unknown)
+172.16.99.209	30:f7:72:53:b2:75	(Unknown)
+172.16.99.219	30:f7:72:53:b2:78	(Unknown)
+172.16.99.194	b8:86:87:7e:11:b1	(Unknown)
+172.16.99.185	a8:1b:5a:b8:50:00	(Unknown)
+172.16.99.150	3c:91:57:db:13:7b	Hangzhou Yulong Conmunication Co.,Ltd
+172.16.99.215	30:f7:72:53:b2:80	(Unknown)
+172.16.96.122	e8:bb:a8:b7:90:fc	(Unknown)
+172.16.96.208	64:a3:cb:e1:09:a2	Apple
+172.16.96.222	dc:6d:cd:05:05:51	(Unknown)
+172.16.97.10	4c:8d:79:7c:ad:39	Apple
+172.16.97.250	ac:cf:85:d4:e4:ba	(Unknown)
+172.16.97.180	38:bc:1a:00:39:16	Meizu technology co.,ltd
+172.16.97.239	b0:34:95:15:1e:9e	(Unknown)
+172.16.98.65	3c:a3:48:fe:d4:e6	(Unknown)
+172.16.98.21	f0:27:2d:a0:cb:87	(Unknown)
+172.16.98.116	30:d6:c9:91:0a:2c	(Unknown)
+172.16.98.225	b8:bc:1b:3b:4b:6b	(Unknown)
+172.16.98.99	e4:5a:a2:4b:cc:1c	(Unknown)
+172.16.99.69	74:51:ba:28:f0:d4	(Unknown)
+172.16.99.88	bc:3a:ea:7e:fb:5a	(Unknown)
+172.16.99.85	68:a0:f6:53:ca:90	(Unknown)
+172.16.99.153	f4:37:b7:05:1e:c7	(Unknown)
+172.16.99.68	00:44:64:38:ac:2f	(Unknown)
+172.16.99.120	58:44:98:fd:f2:e6	(Unknown)
+172.16.99.210	30:f7:72:53:b2:f3	(Unknown)
+
+2092 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 1024 hosts scanned in 4.798 seconds (213.42 hosts/sec). 82 responded
